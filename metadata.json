@@ -1,0 +1,6 @@
+{
+  "name": "CyberSec Academy - Cybersecurity Education & Certification Platform",
+  "description": "Comprehensive cybersecurity education platform with Beginner, Intermediate, and Advanced learning paths, specialized professional tracks, interactive labs, assessments, and verifiable digital certificates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
